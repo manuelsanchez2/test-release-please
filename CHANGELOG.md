@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.2.0...v1.3.0) (2024-08-11)
+
+
+### Features
+
+* try to publish only dist folder ([6a53d2d](https://github.com/manuelsanchez2/test-release-please/commit/6a53d2d1a1c7b27bbe634f1a87354eb8964eb609))
+
 ## [1.2.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.1.0...v1.2.0) (2024-08-11)
 
 
