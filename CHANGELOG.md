@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.2...v1.1.0) (2024-08-11)
+
+
+### Features
+
+* upgrade node version ([b1d7aac](https://github.com/manuelsanchez2/test-release-please/commit/b1d7aac2a456e89a163d056fe7b152bec62e78f3))
+
 ## [1.0.2](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.1...v1.0.2) (2024-08-11)
 
 
