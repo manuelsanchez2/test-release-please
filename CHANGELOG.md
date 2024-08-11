@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.3.0...v1.4.0) (2024-08-11)
+
+
+### Features
+
+* test test test ([4d44247](https://github.com/manuelsanchez2/test-release-please/commit/4d4424703273ef399a800d887769b5c26b2394a1))
+
 ## [1.3.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.2.0...v1.3.0) (2024-08-11)
 
 
