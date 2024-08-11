@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.1.0...v1.2.0) (2024-08-11)
+
+
+### Features
+
+* add info to index ([f83f815](https://github.com/manuelsanchez2/test-release-please/commit/f83f8157c8d4007c281f814b5ba0e798ad939299))
+
 ## [1.1.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.2...v1.1.0) (2024-08-11)
 
 
