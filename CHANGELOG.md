@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.0...v1.0.1) (2024-08-11)
+
+
+### Bug Fixes
+
+* improve title name ([fc6953e](https://github.com/manuelsanchez2/test-release-please/commit/fc6953ebccee3344670682de52b375475615d610))
+
 ## 1.0.0 (2024-08-11)
 
 
