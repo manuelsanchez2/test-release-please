@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.1...v1.0.2) (2024-08-11)
+
+
+### Bug Fixes
+
+* remove unnecessary release please config ([44969a7](https://github.com/manuelsanchez2/test-release-please/commit/44969a7a4c4b1f608129bc996e62dbaa0116f928))
+
 ## [1.0.1](https://github.com/manuelsanchez2/test-release-please/compare/v1.0.0...v1.0.1) (2024-08-11)
 
 
