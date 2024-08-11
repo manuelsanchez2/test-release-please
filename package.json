@@ -1,6 +1,6 @@
 {
   "name": "@msweb/random-number",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
