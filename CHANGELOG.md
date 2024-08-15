@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.4.0...v1.5.0) (2024-08-15)
+
+
+### Features
+
+* **html:** improve the markup of the html ([62a8ded](https://github.com/manuelsanchez2/test-release-please/commit/62a8dedb7c1d14026fa3b7f9a6cdd6a0c2b0f4f4))
+
 ## [1.4.0](https://github.com/manuelsanchez2/test-release-please/compare/v1.3.0...v1.4.0) (2024-08-11)
 
 
